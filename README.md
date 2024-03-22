@@ -26,7 +26,7 @@
   * Right now the company has introduced self-driving vehicles, however in the roll-out of this autonomous driving there have been some accidents while in autopilot mode.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-  * Currently, one of Tesla's objectives is to provide self driving trucks for delivery and transportation of goods.
+  * Currently, one of Tesla's objectives is to provide self driving trucks for delivery and transportation of goods. Tis market is valued at $29B in North America.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   * Tesla is a leader in the field, however there are other companies also making efforts for autonomous trucks such as Peterbuilt and locomation to tackle the expected shortage of delivery truck drivers.
@@ -39,6 +39,7 @@
   * and Semantic Segmentation.
 
 * https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/
+* https://www.precedenceresearch.com/last-mile-delivery-transportation-market#:~:text=The%20U.S.%20last%20mile%20delivery,10%25%20from%202024%20to%202033.
 * https://ai.plainenglish.io/decoding-the-technology-behind-tesla-autopilot-how-it-works-af92cdd5605f
 
 ## Landscape
